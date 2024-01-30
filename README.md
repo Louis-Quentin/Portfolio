@@ -15,7 +15,7 @@ Embark on a seamless shopping journey with our first E-commerce Flutter app. Pic
 
 #### A Different Flavor
 The second E-commerce app introduces a fresh perspective. Dive into a world of categorized products, secure payment options, and real-time order updates. It's not just about buying; it's about enjoying a unique shopping adventure.
-<img src="./Advanced-ECOM-Mobile-App/advanced_store.png">
+<img src="./Advanced-ECOM-Mobile-App/assets/advanced_store.png">
 
 ## Web App
 
