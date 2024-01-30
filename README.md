@@ -23,7 +23,7 @@ The second E-commerce app introduces a fresh perspective. Dive into a world of c
 
 #### Netflix-Like Magic
 Imagine a web app that mirrors the magic of Netflix. It's not just about watching; it's about getting lost in a cinematic experience. Our web app offers a seamless interface, personalized profiles, and a recommendation engine tailored to your preferences.
-<img src="WebApp-Netflix-Like/images/homescreen.png">
+<img src="WebApp-Netflix-Like/images/demo3.png">
 <img src="WebApp-Netflix-Like/images/demo.png">
 
 ## How to Immerse Yourself
